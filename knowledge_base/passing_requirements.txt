@@ -1,0 +1,33 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Passing Requirements, Grading System, and Degree Classification
+CODE: REG-2024-PASS-04
+LAST REVISED: August 2024
+
+1. MINIMUM PASSING CRITERIA FOR THEORY COURSES
+To pass a theory course, a student must satisfy BOTH of the following conditions:
+a) Minimum 45% marks in the End-Semester Examination (i.e., at least 27 marks out of 60).
+b) Minimum 50% marks in the aggregate of Continuous Internal Assessment (CIA) and End-Semester Examination combined (i.e., at least 50 marks out of 100).
+
+2. MINIMUM PASSING CRITERIA FOR PRACTICAL COURSES
+To pass a laboratory course, a student must secure:
+a) At least 50% marks in the end-semester practical examination.
+b) At least 50% aggregate marks (continuous lab evaluation + end-semester lab exam).
+
+3. 10-POINT LETTER GRADING SCALE
+Marks Range (Out of 100) | Grade | Grade Points | Qualitative Description
+------------------------|-------|--------------|------------------------
+91 - 100                | O     | 10           | Outstanding
+81 - 90                 | A+    | 9            | Excellent
+71 - 80                 | A     | 8            | Very Good
+61 - 70                 | B+    | 7            | Good
+50 - 60                 | B     | 6            | Average (Minimum Passing)
+< 50 (or < 45% in external) | RA | 0           | Re-Appear / Failed
+Absent                  | AB    | 0           | Absent
+
+4. CLASSIFICATION OF DEGREE AWARD
+- First Class with Distinction: CGPA of 8.50 or above, completed within the regular duration of 4 years without any history of arrears/arrear attempts.
+- First Class: CGPA of 6.50 or above, completed within the regular duration or an additional grace year.
+- Second Class: CGPA between 5.00 and 6.49.
+
+5. REVALUATION & SCRIPT REVIEW
+Students dissatisfied with their grade can apply for a photocopy of their evaluated answer booklet within 7 working days of result declaration by paying a fee of Rs. 400 per paper. Revaluation applications can be filed within 5 days of receiving the photocopy with a fee of Rs. 800 per paper.

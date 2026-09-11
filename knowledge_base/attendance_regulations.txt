@@ -1,0 +1,22 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Attendance Policy and Regulations
+CODE: REG-2024-ATT-01
+LAST REVISED: August 2024
+
+1. MINIMUM ATTENDANCE REQUIREMENT
+Every student is required to maintain a minimum attendance of 75% in each registered course/subject across the semester (theory and practicals separately) to be eligible to appear for the End-Semester University Examinations.
+
+2. CONDONATION OF ATTENDANCE SHORTAGE
+Students having attendance between 65% and 74% (both inclusive) in any subject may be granted condonation of shortage of attendance by the Principal/Dean on valid medical grounds or official representation of the college in sports, cultural events, or academic competitions.
+- Medical grounds require submission of a valid Medical Certificate and Fitness Certificate from a registered medical practitioner within 7 days of returning to college.
+- A condonation processing fee of Rs. 1,000 per subject must be paid upon recommendation of the Head of the Department (HOD) and approval of the Principal.
+
+3. DETENTION (ATTENDANCE BELOW 65%)
+Students who secure less than 65% attendance in any course are NOT eligible for condonation under any circumstances. Such students will be detained in that course and will NOT be permitted to write the End-Semester Examination for that course.
+- Detained students must re-register and repeat the course in a subsequent semester whenever offered.
+
+4. DUTY LEAVE (ON-DUTY / OD)
+A maximum of 10 days per semester can be granted as On-Duty (OD) leave for participating in inter-collegiate competitions, seminars, project expos, or university sports events, subject to prior written approval from the Faculty In-Charge and HOD. Approved OD counts as attended classes for official calculation.
+
+5. ATTENDANCE MONITORING
+Attendance is updated daily on the student ERP portal. Students falling below 80% receive a warning notice before each Continuous Internal Assessment (CIA).

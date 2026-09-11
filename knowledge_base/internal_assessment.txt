@@ -1,0 +1,30 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Continuous Internal Assessment (CIA) Guidelines
+CODE: REG-2024-CIA-03
+LAST REVISED: August 2024
+
+1. INTERNAL MARKS WEIGHTAGE
+Theory courses follow a 40:60 weightage model:
+- Continuous Internal Assessment (CIA): 40 Marks
+- End-Semester University Examination: 60 Marks
+Total Course Marks: 100 Marks
+
+2. COMPONENTS OF CONTINUOUS INTERNAL ASSESSMENT (CIA - 40 MARKS)
+The 40 internal marks are awarded based on the following components:
+a) CIA Tests (25 Marks):
+   Three centralized internal assessment tests (CIA 1, CIA 2, and CIA 3) of 50 marks each (reduced proportionally) are conducted per semester. The best 2 out of 3 test scores are averaged to yield the final test score out of 25 marks.
+b) Assignments and Quizzes (10 Marks):
+   Two analytical assignments (5 marks each) or one technical seminar/mini-assignment evaluated on originality, problem-solving, and timely submission.
+c) Attendance and Active Class Participation (5 Marks):
+   - 95% and above attendance: 5 Marks
+   - 90% to 94.9% attendance: 4 Marks
+   - 85% to 89.9% attendance: 3 Marks
+   - 80% to 84.9% attendance: 2 Marks
+   - 75% to 79.9% attendance: 1 Mark
+   - Below 75%: 0 Marks
+
+3. LABORATORY AND PRACTICAL COURSES (100 MARKS TOTAL)
+Practical courses have 60 marks for continuous evaluation (observation notebook, viva, weekly experiment execution) and 40 marks for the end-semester lab model practical examination.
+
+4. RE-TEST POLICY
+No re-test will be scheduled for missed CIA tests, except in genuine medical emergencies or authorized college representations supported by written permission from the Dean of Academics.

@@ -1,0 +1,49 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Syllabus and Curriculum - Computer Science and Engineering (CSE)
+CODE: SYLL-CSE-2024
+PROGRAM: B.Tech Computer Science and Engineering
+
+THIRD YEAR - SEMESTER 5 (ODD SEMESTER)
+Curriculum Subjects:
+1. CS3501: Operating Systems (OS)
+   - Unit 1: OS Overview, Processes and Threads, CPU Scheduling Algorithms
+   - Unit 2: Process Synchronization, Critical Section Problem, Mutex & Semaphores, Deadlocks
+   - Unit 3: Memory Management, Paging, Segmentation, Virtual Memory, Page Replacement
+   - Unit 4: File Systems, Directory Structure, Disk Storage & Scheduling
+   - Unit 5: Case Studies (Linux & Windows Internals), Virtualization and Containers
+
+2. CS3502: Database Management Systems (DBMS)
+   - Unit 1: ER Modeling, Relational Algebra, SQL Fundamentals, Advanced Queries
+   - Unit 2: Database Design, Functional Dependencies, Normalization (1NF, 2NF, 3NF, BCNF)
+   - Unit 3: Transactions, ACID Properties, Concurrency Control, Serializability, Locking Protocols
+   - Unit 4: Storage Architectures, Indexing (B-trees, B+ trees), Hashing, Query Processing
+   - Unit 5: NoSQL Databases, MongoDB, Distributed Transactions
+
+3. CS3503: Computer Networks (CN)
+   - Unit 1: Network Architecture, OSI & TCP/IP Models, Physical & Data Link Layer, Error Control
+   - Unit 2: Medium Access Control, Ethernet, Wireless LANs
+   - Unit 3: Network Layer, IP Addressing, Subnetting, Routing Algorithms (OSPF, BGP, Distance Vector)
+   - Unit 4: Transport Layer, TCP vs UDP, Flow Control, Congestion Control (AIMD)
+   - Unit 5: Application Layer protocols (HTTP, DNS, SMTP, FTP), Network Security Basics
+
+4. CS3504: Theory of Computation & Automata (TOC)
+   - Unit 1: Finite Automata, DFA, NFA, Regular Expressions, Pumping Lemma
+   - Unit 2: Context-Free Grammars, Parse Trees, Ambiguity, Pushdown Automata (PDA)
+   - Unit 3: Turing Machines, Variants of TM, Church-Turing Thesis
+   - Unit 4: Decidability, Halting Problem, Reducibility
+   - Unit 5: Computational Complexity, P and NP Classes, NP-Completeness
+
+5. CS3505: Web Technology & Full-Stack Development (WT)
+   - Unit 1: HTML5, CSS3, Responsive Design, Modern JavaScript (ES6+)
+   - Unit 2: Frontend Frameworks, Component Architecture, State Management
+   - Unit 3: Backend REST APIs, Node.js / Python FastAPI, Authentication & JWT
+   - Unit 4: Database Integration, ORM, WebSockets
+   - Unit 5: Cloud Deployment, Docker, CI/CD pipelines, Web Security (OWASP Top 10)
+
+THIRD YEAR - SEMESTER 6 (EVEN SEMESTER)
+Curriculum Subjects:
+1. CS3601: Artificial Intelligence & Machine Learning (AI/ML)
+2. CS3602: Compiler Design (CD)
+3. CS3603: Cryptography and Network Security (CNS)
+4. CS3604: Software Engineering and Agile Methodologies (SE)
+5. Professional Elective I: Cloud Computing / Mobile App Development

@@ -1,0 +1,25 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Student Academic FAQ and General Procedures
+CODE: FAQ-STUDENT-2024
+LAST REVISED: August 2024
+
+Q1: How do I apply for a Bonafide Certificate?
+A1: Log in to the Student ERP portal under 'Certificates' -> 'Apply Bonafide'. Select the purpose (e.g., bus pass, passport application, education loan). The digitally signed certificate is generated within 24 hours. Physical stamped copies can be collected from the Academic Section counter (Room 102).
+
+Q2: What is the procedure if I lose my Student Identity Card?
+A2: Report the loss to the College Security Office and fill out the 'Duplicate ID Card Request' form at the Dean of Student Affairs office. A fine/replacement fee of Rs. 250 must be paid at the accounts counter. A new smart ID card will be issued within 3 working days.
+
+Q3: What are the Central Library hours?
+A3: The Central Library is open from 8:00 AM to 8:00 PM on all working days. During examination periods, the library extended reading hall remains open until 10:00 PM. On Sundays and public holidays, it functions from 9:00 AM to 1:00 PM.
+
+Q4: What is the hostel curfew and out-pass timing?
+A4: All resident students must return to their respective hostel blocks before 7:30 PM. Weekend out-passes must be submitted through the Hostel Management ERP module and approved by the resident warden and student parent/guardian SMS confirmation.
+
+Q5: How do I apply for leave on medical grounds?
+A5: Submit a formal leave application countersigned by your parent or guardian along with the doctor's prescription and medical certificate to your Class Advisor within 3 working days of rejoining college. Medical leave helps support condonation if attendance falls between 65% and 74%.
+
+Q6: How can I register for arrear examinations?
+A6: Arrear examination registration opens 3 weeks prior to the commencement of end-semester examinations. Students must submit the arrear exam registration form on the COE portal and pay the examination fee of Rs. 500 per theory subject and Rs. 600 per practical subject.
+
+Q7: Who do I contact for scholarship inquiries?
+A7: For government and merit scholarship assistance, contact the Scholarship Cell located in the Administrative Block, Room 108, or email scholarship@abctech.edu.

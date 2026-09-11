@@ -1,0 +1,33 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Academic Calendar (Odd and Even Semesters 2024-2025)
+CODE: CAL-2024-25
+LAST REVISED: August 2024
+
+1. ODD SEMESTER (SEMESTERS 1, 3, 5, 7)
+- Commencement of Classes: August 1, 2024
+- Continuous Internal Assessment 1 (CIA 1): September 9 - September 14, 2024
+- National Technical Symposium (TECHFEST): October 4 - October 5, 2024
+- Continuous Internal Assessment 2 (CIA 2): October 21 - October 26, 2024
+- Last Working Day for Instruction: November 15, 2024
+- Model Practical Examinations: November 18 - November 23, 2024
+- Continuous Internal Assessment 3 (CIA 3): November 25 - November 30, 2024
+- End-Semester Practical Examinations: December 2 - December 7, 2024
+- End-Semester Theory Examinations: December 11 - December 28, 2024
+- Winter Vacation: December 29, 2024 - January 12, 2025
+- Result Publication Date: January 20, 2025
+
+2. EVEN SEMESTER (SEMESTERS 2, 4, 6, 8)
+- Commencement of Classes: January 13, 2025
+- Continuous Internal Assessment 1 (CIA 1): February 17 - February 22, 2025
+- Annual Cultural Fest (TARANG): March 7 - March 8, 2025
+- Annual Sports Meet: March 14, 2025
+- Continuous Internal Assessment 2 (CIA 2): March 24 - March 29, 2025
+- Continuous Internal Assessment 3 (CIA 3): April 21 - April 26, 2025
+- Last Working Day for Instruction: April 30, 2025
+- End-Semester Practical Examinations: May 5 - May 10, 2025
+- End-Semester Theory Examinations: May 14 - May 31, 2025
+- Summer Internship / Break: June 1 - July 20, 2025
+- Result Publication Date: June 25, 2025
+
+3. WORKING HOURS & DAYS
+College operates Monday through Friday, 8:30 AM to 4:15 PM. Alternate Saturdays are working days following a Wednesday or Friday timetable as notified in the college handbook.

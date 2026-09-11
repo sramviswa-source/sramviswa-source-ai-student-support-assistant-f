@@ -1,0 +1,31 @@
+[SAMPLE DATA - ABC INSTITUTE OF TECHNOLOGY]
+DOCUMENT: Department Profiles, Faculty, and Facilities
+CODE: DEPT-INFO-2024
+LAST REVISED: August 2024
+
+1. DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE)
+- Head of Department (HOD): Dr. R. Sundaram, Ph.D. (sundaram.cse@abctech.edu)
+- Office Location: Main Academic Block, 3rd Floor, Room 302
+- Student Intake: 180 undergraduate students per year
+- Specialized Laboratories: Cloud Computing Lab, Advanced Networks Lab, Machine Learning Center of Excellence, Systems Programming Lab
+- Student Association: Computer Society of ABC (CSABC), organizes weekly coding contests, hackathons, and Linux user group meetups.
+
+2. DEPARTMENT OF ARTIFICIAL INTELLIGENCE & DATA SCIENCE (AI&DS)
+- Head of Department (HOD): Dr. Priya Narayanan, Ph.D. (priya.aids@abctech.edu)
+- Office Location: Technology Tower, 2nd Floor, Room 210
+- Specialized Laboratories: Deep Learning & GPU Cluster Lab, Big Data Analytics Lab, NLP Research Lab
+
+3. DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING (ECE)
+- Head of Department (HOD): Dr. K. Venkatraman, Ph.D. (venkatraman.ece@abctech.edu)
+- Office Location: Circuit Block, 2nd Floor, Room 201
+- Specialized Laboratories: VLSI Design Lab, Embedded Systems & IoT Lab, Microwave & Optical Communication Lab
+
+4. DEPARTMENT OF MECHANICAL ENGINEERING (MECH)
+- Head of Department (HOD): Dr. S. Annamalai, Ph.D. (annamalai.mech@abctech.edu)
+- Office Location: Mechanical Sciences Block, Ground Floor, Room 005
+- Specialized Laboratories: CAD/CAM Center, Thermal Engineering Lab, Robotics & Mechatronics Lab
+
+5. DEPARTMENT OF CIVIL ENGINEERING (CIVIL)
+- Head of Department (HOD): Dr. M. Kavitha, Ph.D. (kavitha.civil@abctech.edu)
+- Office Location: Infrastructure Block, 1st Floor, Room 104
+- Specialized Laboratories: Structural Engineering Lab, Environmental & Fluid Mechanics Lab, Surveying Lab
